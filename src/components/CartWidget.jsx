@@ -1,4 +1,5 @@
 import carrito from "../assets/carrito.svg"
+import "./CartWidget.css";
 
 export default function CartWidget(){
 
