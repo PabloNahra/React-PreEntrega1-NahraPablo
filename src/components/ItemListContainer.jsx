@@ -1,6 +1,10 @@
+import "./ItemListContainer.css";
+
 export default function ItemListContainer(props){
 
     return(
-        <h1>{props.greeting}</h1>
+        <main>
+            <h1>{props.greeting}</h1>
+        </main>
     )
 }
